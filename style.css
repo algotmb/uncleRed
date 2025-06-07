@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(77, 0, 0);
+}
+
+img {
+  background: url(https://img.wattpad.com/cover/343824384-256-k370062.jpg);
+  display: block;
+    width: 210px;
+    height: 250px;
+}
+
+a {
+    font-family: Bradley Hand, cursive;
+    color: red;
+}
+
+h1 {
+    color: red;
+     font-family: Bradley Hand, cursive,bold;
+}
+
+h2 {
+    color: red;
+     font-family: Bradley Hand, cursive;
+}
+
+ul {
+    color: red;
+     font-family: Bradley Hand, cursive;
+
+}
+
+p {
+ font-family: Bradley Hand, cursive;
+ color: red;
+}
+
+ul:hover {
+    color: rgb(192, 0, 0);
+font-family:  Felt, fantasy;
+}
+
+div{
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShN6y7h2tVmaQPANH2oLX3PUljZdjF_z6HHA&s);
+    background-repeat: no-repeat;
+    height: 400px;
+
+}
+div:hover{
+       background-image: url(https://img.wattpad.com/cover/343824384-256-k370062.jpg);
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.p {
+    color: rgb(77, 0, 0);
+}
+
+.p:hover {
+    color:red;
+    font-family: Trattatello, fantasy;
+}
+
+
+.ul2 {
+    color:rgb(77, 0, 0);;
+}
