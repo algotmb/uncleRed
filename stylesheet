@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title>My Sites</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Мои сайты,над которыми я долго работал</h1>
+      <p><a class="link-text" href="http://peaki885.tilda.ws/lumi"><b>Моя работа</b></a> тильдовский сайт по игре outcore</p>
+        <p><a class="link-text" href="https://peaki885exe.github.io/red-rd/"><b>Моя работа</b></a> по магазину феерверков</p>
+        <p><a class="link-text" href="https://peaki885exe.github.io/me-not-sad/"><b>Моя работа</b></a> Мини туториала по тому,как поднять настроение очень быстро</p>
+      
+      <h2>ВНИМАНИЕ!!! НЕБОЛЬШОЙ ОТЗЫВ О РАБОТАХ <br> (наведите)</h2>
+
+<ul class="ul2">
+  <li>Хоть я и работал над сайтами,они никак не похожи на то,что делаи мои друзья,они кривые и некачевственные</li>
+  <li>Темы сайтов странные</li>
+  <li>Я мог бы постараться лучше,ведь я умею</li>
+  <li>Они мои и мне нравится</li>
+  </ul>
+    </main>
+    <footer>
+      
+    </footer>
+  </body>
+</html>
